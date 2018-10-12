@@ -1,5 +1,8 @@
-This issue will be used to track your onboarding
+---
+name: New Student Checklist
+about: one time use, track your onboarding
 
+---
 
 General items
  - [ ] add (@brownsarahm) as a collaborator to your repository

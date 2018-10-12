@@ -5,8 +5,12 @@ templates for mentoring tracking and getting started guide for students I mentor
 # Getting Started
 
 1. create a github account and request an academic upgrade
-1. create your own mentoring file by importing (not forking) this repository, you may choose to make this a private repository, name it something with your name or github username in it
+1. create your own mentoring file by importing (not forking) this repository, you may choose to make this a private repository, name it with your name or github username in it
 1. open a new student issue on your repository, follow the steps on the issue for onboarding
+
+# Contribute back to this
+
+Fork this repo and use a standard workflow to contribute back additional resources to share. 
 
 # Get updates from this repository to your copy
 
