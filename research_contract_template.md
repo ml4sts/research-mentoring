@@ -1,20 +1,19 @@
 # [Name] Research Contract [Semester]
 
 ## Communication plan:
+<!-- delete or comment out any questions or sections that are irrelevant -->
 
-What is the best way for the student to contact the mentor with questions? Will there be regular check-in meetings? If so, how often?
+1. What is the best way for the student to contact the mentor with questions?
 
+1. Will there be regular check-in meetings? If so, how often?
 
-How many hours per week, on average, should the student spend working on the project?
+1. How many hours per week, on average, should the student spend working on the project?
 
+1. If the student is enrolled in credit hours for this research, how will the final grade be determined?
 
-If the student is enrolled in credit hours for this research, how will the final grade be determined?
+1. Does the student need to get the mentor's permission before presenting this research at a conference and/or submitting it for publication?  Y/N
 
-
-Does the student need to get the mentor's permission before presenting this research at a conference and/or submitting it for publication?  Y/N
-
-
-Which, if any, of the following resources should the student use to complete the project? (check all apply and create issues for the required, one issue per approximate time frame (before starting, by end of semester, etc))
+1. Which, if any, of the following resources should the student use to complete the project? (check all apply and create issues for the required, one issue per approximate time frame (before starting, by end of semester, etc))
  - [ ] Make an appointment with the Writing Center for feedback on drafts of paper.
  - [ ] Complete one of the online CITI tutorials (human subjects, responsible conduct of research, etc.)
  - [ ] Research Integrity training/approval
@@ -23,6 +22,18 @@ Which, if any, of the following resources should the student use to complete the
  - [ ] View website and/or attend a workshop offered through the Center for Undergraduate Research about presenting your research at a conference.
  - [ ] Consult with a subject librarian for assistance finding sources.
 Other________________________________________.
+
+
+## Project Overview
+
+The larger project's overall goal is to:
+
+
+
+People and Roles
+ - Sarah Brown:
+ - <student>:
+ - <domain expert>:
 
 
 ## Research Milestones
