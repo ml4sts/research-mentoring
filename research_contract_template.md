@@ -46,19 +46,11 @@ Administer survey.
 Submit proposal to present at Undergraduate Research Symposium.
 Turn in the first draft for a final paper. -->
 
-Milestone 1:
-Target completion date:
-
-Milestone 2:
-Target completion date:
-
-Milestone 3:
-Target completion date:
-
+[Create](https://docs.github.com/en/issues/using-labels-and-milestones-to-track-work/creating-and-editing-milestones-for-issues-and-pull-requests) your milestones as [GithHub milestones](https://docs.github.com/en/issues/using-labels-and-milestones-to-track-work/about-milestones). Associate a target date and short description to each. 
 
 
 ## Student Outcomes
-Identify several outcomes (skills, knowledge, professional development, etc.) that are important for the student to develop through the completion of this project. Use these questions to get you started: What does the student want to get out of this research experience?  What does the mentor want the student to get out of the experience?
+Identify several outcomes (skills, knowledge, professional development, etc.) that are important for you to develop through the completion of this project. Use these questions to get you started: What do you want to get out of this research experience?  What does the mentor want the student to get out of the experience?
 
 <!-- Example skills outcomes:
 Can identify relevant sources from library databases.
@@ -86,3 +78,5 @@ Student level at end of project: (no experience, beginning, adequate, advanced)
 Outcome 3:
 Student level at start of project: (no experience, beginning, adequate, advanced)
 Student level at end of project: (no experience, beginning, adequate, advanced)
+ 
+For each outcome [create a label](https://docs.github.com/en/issues/using-labels-and-milestones-to-track-work/managing-labels#creating-a-label) in your mentoring repo. 
